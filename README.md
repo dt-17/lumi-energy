@@ -1,2 +1,2 @@
-# energy-wholesale
+# LUMI Energy
 Making energy smarter ⚡️
